@@ -8,6 +8,7 @@ class GuliaaaApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("bbbbbbbbbbbbbbb");
     }
 
 }
